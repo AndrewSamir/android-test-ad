@@ -1,3 +1,12 @@
 <resources>
     <string name="app_name">Android test</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="forgot_password">Forgot Password</string>
+    <string name="create_account">Create Account</string>
+    <string name="show_password">Show password</string>
+    <string name="hide_password">Hide password</string>
+    <string name="home_screen">home screen</string>
+    <string name="invalid_email_or_password">Invalid email or password</string>
 </resources>
